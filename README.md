@@ -1,5 +1,5 @@
-#MY NAME IS GURSEHAJ SINGH
-##Activity report of Student Induction Program 2024
+# MY NAME IS GURSEHAJ SINGH
+## Activity report of Student Induction Program 2024
 
 | DATE | RESOURCE PERSON | DESCRIPTION |
 | 15.07.2024 | Dr.Pyaarelaal Garg | Dr.garg told us important things |
